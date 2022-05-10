@@ -7,6 +7,7 @@
 ## Sweet
 
 - [Lemon coconut cake](lemon-coconut-cake.md)
+- [Crema pasticciera](crema-pasticciera.md)
 
 ## To do
 
