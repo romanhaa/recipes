@@ -8,6 +8,7 @@
 
 - [Lemon coconut cake](lemon-coconut-cake.md)
 - [Crema pasticciera](crema-pasticciera.md)
+- [Pastéis de Nata](pasteis-de-nata.md)
 
 ## To do
 
