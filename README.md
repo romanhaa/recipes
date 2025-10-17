@@ -3,6 +3,7 @@
 ## Savory
 
 - [Oven veggies](oven-veggies.md)
+- [Coleslaw](coleslaw.md)
 
 ## Sweet
 
